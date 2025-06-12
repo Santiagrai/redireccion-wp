@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://wa.me/5493415939872?text=Hola%20Quiero%20mas%20Informacion",
+      "permanent": true
+    }
+  ]
+}
